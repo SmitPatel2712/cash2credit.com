@@ -1,0 +1,29 @@
+credit2cash/
+├─ package.json
+├─ next.config.js
+├─ tailwind.config.js
+├─ postcss.config.js
+├─ .gitignore
+├─ public/
+│   └─ favicon.ico
+├─ pages/
+│   ├─ index.js
+│   ├─ recommend.js
+│   ├─ compare.js
+│   ├─ privacy-policy.js
+│   ├─ terms.js
+│   ├─ affiliate-disclosure.js
+│   └─ api/
+│       └─ recommend.js
+├─ components/
+│   ├─ Header.js
+│   ├─ Footer.js
+│   ├─ ProfileForm.js
+│   ├─ CardDisplay.js
+│   └─ CardComparisonTable.js
+├─ styles/
+│   ├─ globals.css
+│   └─ Home.module.css
+├─ lib/
+│   ├─ api.js
+│   └─ scoring.js
