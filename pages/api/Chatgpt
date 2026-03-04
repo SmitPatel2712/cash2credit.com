@@ -1,0 +1,25 @@
+credit2cash/
+├─ package.json
+├─ next.config.js
+├─ public/
+│   └─ favicon.ico
+├─ pages/
+│   ├─ index.js          # Home page
+│   ├─ recommend.js      # Card recommendation page
+│   ├─ compare.js        # Multi-card comparison page
+│   ├─ privacy-policy.js
+│   ├─ terms.js
+│   └─ affiliate-disclosure.js
+├─ components/
+│   ├─ Header.js
+│   ├─ Footer.js
+│   ├─ CardDisplay.js
+│   ├─ ProfileForm.js
+│   └─ CardComparisonTable.js
+├─ styles/
+│   ├─ globals.css
+│   └─ Home.module.css
+├─ lib/
+│   ├─ api.js            # Axios calls to backend
+│   └─ scoring.js        # Card scoring logic
+└─ .gitignore
