@@ -1,0 +1,19 @@
+# Node.js
+node_modules/
+/.env
+/.next/
+/build/
+
+# Logs
+logs/**
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Coverage output
+coverage/
+
+# Next.js
+.next/
+out/
